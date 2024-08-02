@@ -1,11 +1,11 @@
 {
-  "name": "SUR",
-  "website": "https://www.superherogame.finance/",
-  "description": "SUR",
-  "explorer": "https://bscscan.com/address/0x0009bcF100bd84F3a7A3D61f9c4CB05A816857c9",
-  "type": "BEP20",
-  "symbol": "SUR",
-  "decimals": 18,
-  "status": "active",
-  "id": "0x0009bcF100bd84F3a7A3D61f9c4CB05A816857c9"
+ "name": "ACB",
+ "website": "https://news.amswap.vip",
+ "description": "Based on Binance Smart Chain: ACB tokens are issued on the Binance Smart Chain using the DPOS mining mechanism.",
+ "explorer": "https://bscscan.com/token/0x0E6DfE26C08f375584b9ab4404f85791e27CB1ed",
+ "type": "BEP20",
+ "symbol": "ACB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0E6DfE26C08f375584b9ab4404f85791e27CB1ed"
 }
